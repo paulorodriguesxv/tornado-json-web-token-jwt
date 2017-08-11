@@ -1,6 +1,6 @@
 # Tornado JSON Web Token example
 
-[**www.codecraft.co**](http://www.codecraft.co)
+[**www.codekraft.co**](http://www.codekraft.co)
 
 **Generate a new token:**
 http://localhost:8888/auth
